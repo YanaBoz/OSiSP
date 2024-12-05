@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(41,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(94,32): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(94,32): warning C4267:         with
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(94,32): warning C4267:         [
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(94,32): warning C4267:             _Ty=int
+C:\Users\Lenovo\source\repos\Lab3_OSISP\Lab3_OSISP\Source.cpp(94,32): warning C4267:         ]
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab3_OSISP.vcxproj -> C:\Users\Lenovo\source\repos\Lab3_OSISP\x64\Release\Lab3_OSISP.exe

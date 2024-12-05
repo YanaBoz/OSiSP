@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Lab3_OSISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBF5E6E-867D-4133-98FC-D78FC189CA0A}|Lab3_OSISP\\Lab3_OSISP.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Lab3_OSISP\\Lab3_OSISP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFBF5E6E-867D-4133-98FC-D78FC189CA0A}|Lab3_OSISP\\Lab3_OSISP.vcxproj|solutionrelative:Lab3_OSISP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210250908:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab3_OSISP\\Lab3_OSISP\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab3_OSISP\\Source.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab3_OSISP\\Lab3_OSISP\\Source.cpp",
+              "RelativeToolTip": "Lab3_OSISP\\Source.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAE8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T22:05:33.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

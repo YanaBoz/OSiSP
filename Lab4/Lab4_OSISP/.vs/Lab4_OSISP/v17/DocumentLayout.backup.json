@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7499CD8-3810-42A2-9BB0-1349F46B2A89}|Project2\\Project2.vcxproj|V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7499CD8-3810-42A2-9BB0-1349F46B2A89}|Project2\\Project2.vcxproj|solutionrelative:Project2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB0DC22-C809-4DF6-90EF-D75F159DB510}|Project3\\Project3.vcxproj|V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BB0DC22-C809-4DF6-90EF-D75F159DB510}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210250908:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project3\\Source.cpp",
+              "RelativeDocumentMoniker": "Project3\\Source.cpp",
+              "ToolTip": "V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project3\\Source.cpp",
+              "RelativeToolTip": "Project3\\Source.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T09:39:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project2\\Source.cpp",
+              "RelativeDocumentMoniker": "Project2\\Source.cpp",
+              "ToolTip": "V:\\\u0411\u0413\u0423\u0418\u0420\\3\u043A\u0443\u0440\u0441 1\u0441\u0435\u043C\\\u041E\u0421\u0438\u0421\u041F\\Lab4_OSISP\\Project2\\Source.cpp",
+              "RelativeToolTip": "Project2\\Source.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T09:28:49.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

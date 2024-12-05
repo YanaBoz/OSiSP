@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612AA654-0304-45E6-90A9-D9CCBC9F688B}|Lab2_OSISP\\Lab2_OSISP.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Lab2_OSISP\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{612AA654-0304-45E6-90A9-D9CCBC9F688B}|Lab2_OSISP\\Lab2_OSISP.vcxproj|solutionrelative:Lab2_OSISP\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133AC0-DCFD-4C08-BC0F-B9D6EF9E3101}|Var2\\Var2.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Var2\\Var2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A133AC0-DCFD-4C08-BC0F-B9D6EF9E3101}|Var2\\Var2.vcxproj|solutionrelative:Var2\\Var2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D432E05-A916-434B-B124-2B197E827B02}|1-2-3\\1-2-3.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\1-2-3\\Progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D432E05-A916-434B-B124-2B197E827B02}|1-2-3\\1-2-3.vcxproj|solutionrelative:1-2-3\\Progect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F361AAC9-F2BE-4A33-87D0-C62DFC0ABD2A}|As\\As.vcxproj|C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\As\\As.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F361AAC9-F2BE-4A33-87D0-C62DFC0ABD2A}|As\\As.vcxproj|solutionrelative:As\\As.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:210250908:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "As.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\As\\As.cpp",
+              "RelativeDocumentMoniker": "As\\As.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\As\\As.cpp",
+              "RelativeToolTip": "As\\As.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvycAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T12:22:49.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Progect.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\1-2-3\\Progect.cpp",
+              "RelativeDocumentMoniker": "1-2-3\\Progect.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\1-2-3\\Progect.cpp",
+              "RelativeToolTip": "1-2-3\\Progect.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T11:59:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Var2.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Var2\\Var2.cpp",
+              "RelativeDocumentMoniker": "Var2\\Var2.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Var2\\Var2.cpp",
+              "RelativeToolTip": "Var2\\Var2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T11:57:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Lab2_OSISP\\Program.cpp",
+              "RelativeDocumentMoniker": "Lab2_OSISP\\Program.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab2_OSISP\\Lab2_OSISP\\Program.cpp",
+              "RelativeToolTip": "Lab2_OSISP\\Program.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T00:33:22.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
