@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+V:\БГУИР\3курс 1сем\ОСиСП\Lab5_OSISP\ConsoleApplication1\ConsoleApplication1.cpp(73,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> V:\БГУИР\3курс 1сем\ОСиСП\Lab5_OSISP\x64\Debug\ConsoleApplication1.exe

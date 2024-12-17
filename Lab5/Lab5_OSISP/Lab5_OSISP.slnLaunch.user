@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Lab5_OSISP\\Lab5_OSISP.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsoleApplication1\\ConsoleApplication1.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
